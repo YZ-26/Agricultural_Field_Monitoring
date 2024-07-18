@@ -1,2 +1,2 @@
 # Agricultural_Field_Monitoring
-![unnamed (3)](https://github.com/user-attachments/assets/343150ff-95eb-4562-97ad-49cd631d2381)
+![Без имени](https://github.com/user-attachments/assets/261b32d9-e7d0-4e56-a887-5a54ec3368af)
