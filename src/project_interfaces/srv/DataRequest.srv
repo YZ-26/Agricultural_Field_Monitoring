@@ -1,0 +1,6 @@
+# Request part of the service
+int32 sensor_id
+---
+# Response part of the service
+bool success
+string data
