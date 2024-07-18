@@ -4,6 +4,10 @@
 ## Overview
 This project aims to automate agricultural field monitoring to maintain crop health, prevent fires, and manage resources efficiently. Traditional methods are labor-intensive and ineffective for large areas. Our solution employs autonomous balloons and static sensors to gather and transmit environmental data.
 
+
+[DOWNLOAD THE REPORT](https://github.com/user-attachments/files/16289797/Report_IoT.pdf)
+
+
 ## System Components
 
 ### Sensors
@@ -44,3 +48,5 @@ This project aims to automate agricultural field monitoring to maintain crop hea
 
 ## Conclusion
 Our automated agricultural field monitoring system using sensors and balloons demonstrates an effective and scalable solution for real-time environmental monitoring and fire prevention in agricultural settings. The system's design ensures comprehensive coverage, prompt data collection, and efficient resource management.
+
+
