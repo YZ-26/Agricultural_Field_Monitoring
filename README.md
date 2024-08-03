@@ -2,7 +2,7 @@
 ![Без имени](https://github.com/user-attachments/assets/261b32d9-e7d0-4e56-a887-5a54ec3368af)
 
 ## Overview
-This project aims to automate agricultural field monitoring to maintain crop health, prevent fires, and manage resources efficiently. Traditional methods are labor-intensive and ineffective for large areas. Our solution employs autonomous balloons and static sensors to gather and transmit environmental data.
+This project aims to automate agricultural field monitoring using ROS2, Gazebo and Python to maintain crop health, prevent fires, and manage resources efficiently. Traditional methods are labor-intensive and ineffective for large areas. Our solution employs autonomous balloons and static sensors to gather and transmit environmental data.
 
 
 [DOWNLOAD THE REPORT](https://github.com/user-attachments/files/16289797/Report_IoT.pdf)
